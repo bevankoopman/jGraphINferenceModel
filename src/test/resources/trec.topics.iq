@@ -1,0 +1,14 @@
+<parameter>
+<query>
+<number>1</number>
+<text>foo</text>
+</query>
+<query>
+<number>2</number>
+<text>bar</text>
+</query>
+<query>
+<number>3</number>
+<text>foo bar</text>
+</query>
+</parameter>

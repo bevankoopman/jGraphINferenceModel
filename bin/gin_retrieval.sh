@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass="au.csiro.gin.retrieval.GINRetrieval"
